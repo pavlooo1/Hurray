@@ -1,0 +1,38 @@
+.NavBar {
+	background: #12130F;
+	font-family: 'Didact Gothic', sans-serif;
+}
+
+body{
+	background: #70A48C;
+}
+
+.page-footer {
+	background: #12130F;
+	font-family: 'Didact Gothic', sans-serif;
+}
+
+p {
+	font-family: 'Roboto Condensed', sans-serif;	
+	font-size: 25px;
+}
+
+.your-class {
+	align-items: auto;
+}
+
+.AI {
+	margin: 25px;
+	width: 1200px;
+	height:200px ;
+	background: #EAE6E5;
+	padding-top: 10px;
+	padding-left: auto;
+	padding-right: auto;
+	padding-bottom: 10px;
+}
+
+
+h1 {
+	font-size: 40px;
+}
